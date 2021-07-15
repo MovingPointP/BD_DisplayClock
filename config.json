@@ -10,8 +10,8 @@
             }
         ],
         "version": "0.1.0",
-        "description": "Add a clock in left sidebar ",
-        "github": "",
+        "description": "Add a clock in titlebar ",
+        "github": "https://github.com/MovingPointP/BD_DisplayClock",
         "github_raw": ""
     },
     "main": "index.js"
