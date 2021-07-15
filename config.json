@@ -1,0 +1,18 @@
+{
+    "info": {
+        "name": "DisplayClock",
+        "authors": [
+            {
+                "name": "MovingPointP",
+                "discord_id": "動く点P#4186",
+                "github_username": "MovingPointP",
+                "twitter_username": "MovingPointP"
+            }
+        ],
+        "version": "0.1.0",
+        "description": "Add a clock in left sidebar ",
+        "github": "",
+        "github_raw": ""
+    },
+    "main": "index.js"
+}
